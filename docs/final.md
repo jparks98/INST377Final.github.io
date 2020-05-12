@@ -14,6 +14,7 @@ Any Prince George's County resident that is of voting age or will be of voting a
 ### Techincal System Decision Rational
 
 ### Did We Address Our Problem?
+Our original problem statement was addressed with our application. The problem looked to address voter turnout was so low. We came to the conclusion that the low voter could be due to a lack of information. We wanted our application to solve that information shortage.  We accomplished this task by giving a user a map of every polling location in PG county and providing with a list that the location’s name. There is even te feature to provide diections to the user through Gogle. We believe these solves the problem of of oters haing enough information about their oclal polling stations.
 
 ### Challenges Faced and Their Impact
 
